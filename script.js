@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Já ouviu falar sobre a Síndrome de Burnout?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Sim",
+                afirmacao: "Um problema muito comum, causado pelo excesso de trabalho"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Não",
+                afirmacao: ""
             }
         ]
     },
