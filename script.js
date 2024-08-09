@@ -14,25 +14,26 @@ const perguntas = [
             },
             {
                 texto: "Não",
-                afirmacao: ""
+                afirmacao: "Gostaria de entender sobre"
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O que é a síndrome de burnout?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Problemas do cotidiano",
+                afirmacao: "Como problemas de sáude física"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Um estado de exaustão emocional, física e mental causado por estresse prolongado.",
+                afirmacao: "A síndrome de burnout, também conhecida como síndrome de esgotamento profissional, resultante de estresse crônico e prolongado, geralmente relacionado ao trabalho. É caracterizada por sobrecarga de etresse e medo de não conseguir realizar seus objetivos.",
+
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "A síndrome de burnout, também conhecida como síndrome de esgotamento profissional, resultante de estresse crônico e prolongado, geralmente relacionado ao trabalho. É caracterizada por sobrecarga de etresse e medo de não conseguir realizar seus objetivos",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
@@ -53,7 +54,7 @@ const perguntas = [
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                afirmacao: "Acelerou o processo de criação dé um estado de exaustão emocional, física e mentale trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
     },
